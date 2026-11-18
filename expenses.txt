@@ -1,0 +1,5 @@
+2|for printout of pce major report|139.0|Education|2026-11-16
+3|bought subscription of amazon prime video|1500.0|Other|2026-11-16
+4|go out with friends on weekend|350.0|Travel|2026-11-18
+1|riksha fare|30.0|Travel|2026-11-17
+1|weed|120.0|Other|2026-11-16
